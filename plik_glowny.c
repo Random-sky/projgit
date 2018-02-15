@@ -9,9 +9,10 @@ using namespace std; //czy jakoś ctak
 int main(void)
 {
 
-int pierwsza zmienna = 10;
+int pierwsza_zmienna = 10;
 
 
-
+int podwojanapotega;
+podwojanapotega = fun(fun(pierwsza_zmienna));
 
 }
